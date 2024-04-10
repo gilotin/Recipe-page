@@ -30,7 +30,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 -   Solution URL: [GitHub link to the code](https://github.com/gilotin/Recipe-page)
--   Live Site URL: [live site uploaded in Vercel]()
+-   Live Site URL: [live site uploaded in Vercel](https://recipe-page-sable-three.vercel.app/)
 
 ## My process
 
