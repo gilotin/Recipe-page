@@ -1,14 +1,15 @@
 @font-face {
     font-family: Outfit-VariableFont;
-    src: url(../recipe-page-main/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+    src: url(/public/fonts/outfit/Outfit-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-family: YoungSerif-Regular;
-    src: url(../recipe-page-main/assets/fonts/young-serif/YoungSerif-Regular.ttf);
+    src: url(/public/assets/fonts/young-serif/YoungSerif-Regular.ttf);
 }
 
 body {
+
     font-family: Outfit-VariableFont;
     background-color: #f3e5d8;
     padding: 6rem 25%;
@@ -127,8 +128,10 @@ body {
 
 /* Footer */
 .attribution {
-    font-size: 11px;
+
     text-align: center;
+    width: 100%;
+    font-size: 11px;
 
 }
 
